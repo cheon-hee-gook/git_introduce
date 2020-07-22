@@ -1,0 +1,33 @@
+* {
+    background-color: ivory;
+}
+
+h1 {
+    background-color: beige;
+    width: 600px;
+    height: 50px;
+    padding-left: 20%;
+}
+
+label {
+    color: mediumslateblue;
+}
+
+input {
+    border-color: seashell;
+    background-color: azure;
+    color: brown;
+}
+select {
+    background-color: darkorange;
+}
+
+.introduce {
+    border-style: solid;
+    background-color: white;
+    padding: 10px;
+}
+
+#bt {
+    background-color: darkgoldenrod;
+}
