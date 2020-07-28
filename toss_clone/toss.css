@@ -1,0 +1,31 @@
+* { 
+    margin: 3px;
+    font-family: 'Spoqa Han Sans', 'Spoqa Han Sans JP', 'Sans-serif'; 
+}
+
+.container {
+    width: 500px;
+   
+    display: flex;
+    /* border: 5px dashed lightcoral; */
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 8px;
+    box-shadow: 0 30px 60px 12px rgba(0, 0, 33, 0.05), 0 4px 24px 0 rgba(0, 0, 33, 0.05), 0 0 1px 0 rgba(0, 0, 33, 0.09) ;
+}
+
+.logo{
+    /* border: 5px dashed lightcoral; */
+    width: 100px;
+    height: 100px;
+}
+
+.money{
+    /* border: 5px dashed lightcoral; */
+    width: 280px;
+    
+    display: flex;
+
+    justify-content: flex-end;
+    align-items: center;
+}
